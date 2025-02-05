@@ -1,5 +1,8 @@
 # 🏬MySelectShop
 
+## 프로젝트 실행 영상
+https://github.com/user-attachments/assets/79f4d487-44ff-46fb-a676-8295c9d3660c
+
 ## 🛠️프로젝트 기술 스택
 
 ### 프로그래밍 언어
